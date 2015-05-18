@@ -1,0 +1,2 @@
+# Decus
+Metacity Theme
